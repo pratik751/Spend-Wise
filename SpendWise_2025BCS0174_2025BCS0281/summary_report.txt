@@ -1,0 +1,21 @@
+SpendWise Expense Summary
+Transactions: 294
+Total spend: Rs 123656
+Average per month: Rs 20609
+Top category: Food (Rs 38201)
+Mean: 420.60  Median: 225.5  Std: 863.00
+Unusual expenses: 11
+Overspent cases: 13
+  2026-01 Bills: spent 1529, budget 1500, over by 29
+  2026-01 Food: spent 8705, budget 7000, over by 1705
+  2026-01 Shopping: spent 3646, budget 3000, over by 646
+  2026-02 Entertainment: spent 1810, budget 1500, over by 310
+  2026-02 Food: spent 7890, budget 7000, over by 890
+  2026-03 Bills: spent 1554, budget 1500, over by 54
+  2026-03 Health: spent 1975, budget 1500, over by 475
+  2026-03 Shopping: spent 4814, budget 3000, over by 1814
+  2026-04 Bills: spent 1944, budget 1500, over by 444
+  2026-04 Transport: spent 2614, budget 2000, over by 614
+  2026-05 Entertainment: spent 1851, budget 1500, over by 351
+  2026-05 Health: spent 3300, budget 1500, over by 1800
+  2026-06 Others: spent 2120, budget 1500, over by 620

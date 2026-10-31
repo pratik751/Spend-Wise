@@ -1,0 +1,295 @@
+date,description,category,amount
+2026-01-01,Mobile recharge Jio,Bills,283
+2026-01-02,Room rent,,6000
+2026-01-02,Stationery shop,Shopping,45
+2026-01-03,Swiggy Instamart groceries,,489
+2026-01-04,Tea and snacks,Food,60
+2026-01-04,Zomato - pizza,,548
+2026-01-04,Canteen lunch,,117
+2026-01-04,Gift for friend,,545
+2026-01-05,Electricity share,Bills,529
+2026-01-05,Uber to Kottayam town,,313
+2026-01-05,Stationery shop,,103
+2026-01-06,Zomato - pizza,Food,543
+2026-01-07,Myntra - shoes,,2116
+2026-01-08,Tea and snacks,,37
+2026-01-08,Mobile recharge Jio,,293
+2026-01-08,Swiggy order - biryani,Food,300
+2026-01-08,Swiggy order - biryani,Food,370
+2026-01-09,Zomato - dosa,,157
+2026-01-09,Swiggy Instamart groceries,,698
+2026-01-09,Canteen lunch,Food,53
+2026-01-13,Canteen lunch,,120
+2026-01-14,Swiggy order - biryani,,394
+2026-01-14,Hospital consultation,,485
+2026-01-14,Swiggy Instamart groceries,Food,392
+2026-01-14,Swiggy order - biryani,Food,205
+2026-01-17,Zomato - dosa,,214
+2026-01-17,Ola auto ride,Transport,97
+2026-01-18,Netflix subscription,Entertainment,149
+2026-01-18,Electricity share,,424
+2026-01-18,Laundry,Others,142
+2026-01-19,Swiggy order - biryani,Food,331
+2026-01-20,Zomato - pizza,,532
+2026-01-21,Zomato - dosa,,160
+2026-01-21,Swiggy Instamart groceries,Food,481
+2026-01-21,Flipkart - t-shirt,,632
+2026-01-22,Tea and snacks,Food,46
+2026-01-22,Train ticket to Kochi,,132
+2026-01-23,Canteen lunch,Food,91
+2026-01-24,Swiggy order - biryani,Food,213
+2026-01-24,Zomato - dosa,Food,115
+2026-01-24,Swiggy Instamart groceries,Food,640
+2026-01-25,Swiggy order - biryani,Food,356
+2026-01-26,KSRTC bus ticket,,54
+2026-01-27,Swiggy Instamart groceries,,642
+2026-01-28,Zomato - pizza,Food,235
+2026-01-28,Ola auto ride,Transport,119
+2026-01-29,Uber to Kottayam town,Transport,141
+2026-01-30,Zomato - dosa,Food,166
+2026-01-30,Amazon - earphones,Shopping,750
+2026-02-02,Zomato - pizza,Food,526
+2026-02-02,Room rent,Rent,6000
+2026-02-02,Swiggy order - biryani,Food,380
+2026-02-02,Movie ticket PVR,,201
+2026-02-04,Zomato - dosa,Food,128
+2026-02-05,Swiggy order - biryani,Food,340
+2026-02-06,Electricity share,Bills,468
+2026-02-07,Laundry,,140
+2026-02-07,Canteen lunch,Food,48
+2026-02-08,Tea and snacks,Food,50
+2026-02-08,Movie ticket PVR,Entertainment,1020
+2026-02-08,Pharmacy - medicines,Health,306
+2026-02-09,Zomato - pizza,Food,375
+2026-02-09,Canteen lunch,,48
+2026-02-09,Zomato - dosa,,170
+2026-02-09,Swiggy Instamart groceries,,454
+2026-02-09,Canteen lunch,,44
+2026-02-10,Train ticket to Kochi,,92
+2026-02-10,KSRTC bus ticket,,71
+2026-02-12,Tea and snacks,,73
+2026-02-13,Zomato - dosa,Food,166
+2026-02-13,Tea and snacks,,38
+2026-02-13,Pharmacy - medicines,,1096
+2026-02-14,Canteen lunch,Food,95
+2026-02-14,Stationery shop,Shopping,96
+2026-02-15,Zomato - pizza,,1256
+2026-02-17,Zomato - pizza,Food,235
+2026-02-17,Swiggy Instamart groceries,,347
+2026-02-18,Zomato - dosa,Food,116
+2026-02-18,Tea and snacks,,31
+2026-02-19,Laundry,Others,197
+2026-02-19,Swiggy Instamart groceries,Food,270
+2026-02-19,Train ticket to Kochi,,130
+2026-02-21,Bowling with friends,,328
+2026-02-22,Gift for friend,Others,427
+2026-02-22,Swiggy order - biryani,Food,240
+2026-02-22,Bowling with friends,,261
+2026-02-23,Swiggy Instamart groceries,Food,662
+2026-02-24,Haircut,,193
+2026-02-24,Printout and xerox,Others,52
+2026-02-24,Printout and xerox,,19
+2026-02-25,Laundry,Others,177
+2026-02-26,Zomato - pizza,Food,255
+2026-02-27,Uber to Kottayam town,,149
+2026-02-27,Swiggy order - biryani,Food,387
+2026-02-27,Swiggy Instamart groceries,Food,325
+2026-02-28,Uber to Kottayam town,,286
+2026-02-28,Zomato - dosa,Food,198
+2026-02-28,Swiggy Instamart groceries,Food,633
+2026-03-01,Printout and xerox,,35
+2026-03-01,Tea and snacks,Food,28
+2026-03-02,Room rent,Rent,6000
+2026-03-05,Amazon - earphones,Shopping,618
+2026-03-05,Amazon - earphones,Shopping,1249
+2026-03-05,Zomato - pizza,Food,443
+2026-03-06,Tea and snacks,Food,40
+2026-03-06,Electricity share,Bills,388
+2026-03-07,Movie ticket PVR,Entertainment,211
+2026-03-07,Myntra - shoes,,1812
+2026-03-07,Zomato - dosa,Food,152
+2026-03-08,Zomato - dosa,,208
+2026-03-08,Pharmacy - medicines,,313
+2026-03-10,Hostel wifi bill,,437
+2026-03-10,Ola auto ride,Transport,103
+2026-03-11,Tea and snacks,,37
+2026-03-12,Zomato - dosa,Food,708
+2026-03-13,Gym fees,Health,500
+2026-03-13,Flipkart - t-shirt,Shopping,882
+2026-03-14,KSRTC bus ticket,Transport,73
+2026-03-14,Netflix subscription,Entertainment,149
+2026-03-15,Stationery shop,,106
+2026-03-17,Ola auto ride,Transport,85
+2026-03-18,Spotify premium,Entertainment,59
+2026-03-18,Movie ticket PVR,,274
+2026-03-18,Canteen lunch,Food,68
+2026-03-18,Uber to Kottayam town,Transport,172
+2026-03-18,Zomato - pizza,,318
+2026-03-18,Zomato - pizza,,443
+2026-03-19,Hostel wifi bill,,436
+2026-03-20,KSRTC bus ticket,Transport,105
+2026-03-21,Hospital consultation,,662
+2026-03-22,Tea and snacks,Food,70
+2026-03-22,Amazon - notebook and pens,Shopping,147
+2026-03-22,Zomato - pizza,Food,438
+2026-03-23,Canteen lunch,,82
+2026-03-23,Zomato - pizza,Food,359
+2026-03-25,Swiggy Instamart groceries,Food,560
+2026-03-25,Zomato - dosa,,120
+2026-03-25,Canteen lunch,Food,68
+2026-03-25,KSRTC bus ticket,,30
+2026-03-25,Zomato - dosa,Food,160
+2026-03-25,Gym fees,Health,500
+2026-03-25,Tea and snacks,Food,76
+2026-03-25,Laundry,,67
+2026-03-26,Zomato - pizza,,439
+2026-03-26,Petrol for scooty,Transport,438
+2026-03-26,Electricity share,Bills,293
+2026-03-27,Swiggy order - biryani,,1080
+2026-04-02,Petrol for scooty,Transport,329
+2026-04-02,Room rent,Rent,6000
+2026-04-02,Ola auto ride,,131
+2026-04-02,Swiggy Instamart groceries,Food,317
+2026-04-03,Tea and snacks,Food,35
+2026-04-03,Tea and snacks,,48
+2026-04-04,Spotify premium,Entertainment,59
+2026-04-06,Spotify premium,Entertainment,59
+2026-04-08,Laundry,Others,128
+2026-04-08,Amazon - notebook and pens,Shopping,172
+2026-04-09,Flipkart - t-shirt,Shopping,545
+2026-04-09,Stationery shop,,106
+2026-04-09,Swiggy Instamart groceries,Food,609
+2026-04-10,Swiggy Instamart groceries,Food,314
+2026-04-11,Flipkart - t-shirt,Shopping,637
+2026-04-13,Amazon - notebook and pens,Shopping,397
+2026-04-14,Electricity share,Bills,1512
+2026-04-14,Ola auto ride,Transport,138
+2026-04-16,Tea and snacks,Food,72
+2026-04-16,Swiggy order - biryani,,296
+2026-04-16,Zomato - pizza,,226
+2026-04-16,Printout and xerox,,32
+2026-04-16,Zomato - pizza,,347
+2026-04-17,Tea and snacks,Food,60
+2026-04-18,KSRTC bus ticket,Transport,100
+2026-04-18,Uber to Kottayam town,Transport,273
+2026-04-18,Zomato - pizza,Food,243
+2026-04-19,KSRTC bus ticket,Transport,292
+2026-04-19,Gift for friend,,882
+2026-04-19,Laundry,Others,123
+2026-04-19,Uber to Kottayam town,,158
+2026-04-20,Laundry,,113
+2026-04-22,Bowling with friends,Entertainment,411
+2026-04-23,Tea and snacks,,80
+2026-04-23,Petrol for scooty,,328
+2026-04-23,Netflix subscription,,149
+2026-04-23,Uber to Kottayam town,Transport,143
+2026-04-24,Swiggy order - biryani,,340
+2026-04-24,Petrol for scooty,,325
+2026-04-25,KSRTC bus ticket,Transport,86
+2026-04-25,Swiggy Instamart groceries,Food,654
+2026-04-25,Hostel wifi bill,,432
+2026-04-25,Flipkart - t-shirt,,521
+2026-04-25,Swiggy Instamart groceries,,672
+2026-04-26,Movie ticket PVR,Entertainment,258
+2026-04-28,Tea and snacks,Food,33
+2026-04-28,Uber to Kottayam town,Transport,222
+2026-04-30,Swiggy Instamart groceries,Food,473
+2026-04-30,KSRTC bus ticket,,89
+2026-05-02,Room rent,,6000
+2026-05-02,Ola auto ride,Transport,61
+2026-05-02,Swiggy order - biryani,Food,225
+2026-05-03,Zomato - dosa,Food,163
+2026-05-03,Zomato - pizza,,546
+2026-05-05,Zomato - dosa,Food,129
+2026-05-05,Zomato - dosa,Food,155
+2026-05-05,Train ticket to Kochi,Transport,174
+2026-05-08,Canteen lunch,Food,113
+2026-05-08,Stationery shop,,62
+2026-05-09,Spotify premium,Entertainment,59
+2026-05-09,Tea and snacks,Food,50
+2026-05-10,Hostel wifi bill,,329
+2026-05-10,Stationery shop,,104
+2026-05-11,Mobile recharge Jio,,251
+2026-05-11,Train ticket to Kochi,Transport,186
+2026-05-11,Movie ticket PVR,Entertainment,296
+2026-05-13,Gift for friend,,392
+2026-05-13,Ola auto ride,,113
+2026-05-14,Swiggy Instamart groceries,,460
+2026-05-15,Hospital consultation,Health,1448
+2026-05-16,Bowling with friends,,475
+2026-05-18,Tea and snacks,Food,80
+2026-05-18,Hospital consultation,Health,571
+2026-05-18,Tea and snacks,Food,25
+2026-05-18,Zomato - pizza,Food,506
+2026-05-19,Tea and snacks,,64
+2026-05-19,Netflix subscription,Entertainment,149
+2026-05-21,Myntra - shoes,,1908
+2026-05-21,Ola auto ride,Transport,140
+2026-05-22,Tea and snacks,,77
+2026-05-23,Hospital consultation,,497
+2026-05-23,Zomato - dosa,Food,191
+2026-05-24,Swiggy order - biryani,Food,344
+2026-05-24,Electricity share,,320
+2026-05-26,Zomato - pizza,,240
+2026-05-26,Gift for friend,,707
+2026-05-26,Movie ticket PVR,Entertainment,276
+2026-05-27,Hospital consultation,,784
+2026-05-27,Zomato - dosa,,164
+2026-05-28,Swiggy Instamart groceries,Food,386
+2026-05-28,Zomato - pizza,,353
+2026-05-28,Mobile recharge Jio,Bills,259
+2026-05-28,Tea and snacks,,74
+2026-05-28,Netflix subscription,,596
+2026-05-28,Zomato - dosa,Food,187
+2026-05-29,Swiggy order - biryani,Food,220
+2026-05-29,Zomato - pizza,Food,510
+2026-05-29,Uber to Kottayam town,Transport,199
+2026-06-01,Canteen lunch,Food,71
+2026-06-01,Tea and snacks,Food,74
+2026-06-01,Swiggy order - biryani,Food,266
+2026-06-02,Gift for friend,,804
+2026-06-02,Room rent,Rent,6000
+2026-06-03,Swiggy order - biryani,,340
+2026-06-03,Zomato - pizza,Food,233
+2026-06-04,Netflix subscription,Entertainment,149
+2026-06-05,Gym fees,Health,500
+2026-06-05,Electricity share,Bills,308
+2026-06-05,Gift for friend,Others,478
+2026-06-06,Bowling with friends,Entertainment,235
+2026-06-07,Zomato - pizza,,385
+2026-06-07,Ola auto ride,,92
+2026-06-07,Tea and snacks,Food,34
+2026-06-08,Pharmacy - medicines,,278
+2026-06-08,Uber to Kottayam town,Transport,164
+2026-06-09,Amazon - notebook and pens,Shopping,273
+2026-06-09,Swiggy order - biryani,Food,392
+2026-06-10,Petrol for scooty,Transport,253
+2026-06-11,Electricity share,Bills,555
+2026-06-12,Printout and xerox,,14
+2026-06-12,Spotify premium,Entertainment,59
+2026-06-12,Zomato - pizza,Food,1764
+2026-06-14,Ola auto ride,Transport,97
+2026-06-15,Train ticket to Kochi,Transport,101
+2026-06-15,Zomato - pizza,,528
+2026-06-16,Canteen lunch,,105
+2026-06-18,Swiggy order - biryani,,255
+2026-06-19,Tea and snacks,,74
+2026-06-20,Canteen lunch,Food,44
+2026-06-20,Stationery shop,Shopping,121
+2026-06-20,KSRTC bus ticket,,94
+2026-06-21,Laundry,,195
+2026-06-21,Spotify premium,,59
+2026-06-22,Printout and xerox,Others,56
+2026-06-22,Zomato - dosa,Food,181
+2026-06-22,Printout and xerox,Others,47
+2026-06-22,Zomato - dosa,Food,203
+2026-06-24,Tea and snacks,Food,40
+2026-06-24,Stationery shop,Shopping,78
+2026-06-25,Netflix subscription,,596
+2026-06-26,Uber to Kottayam town,,332
+2026-06-26,Swiggy order - biryani,Food,300
+2026-06-26,Pharmacy - medicines,Health,221
+2026-06-28,Swiggy order - biryani,,241
+2026-06-29,Gift for friend,,526
+2026-06-29,Canteen lunch,Food,98
+2026-06-30,Spotify premium,,59
